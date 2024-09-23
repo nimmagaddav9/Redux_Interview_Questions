@@ -1,0 +1,15 @@
+1. What is middle ware? redux-saga
+
+2. how to manage the state? redux library
+
+3. separate actions: thunx
+
+4. why Saga middleware? to manipulate actions. Ex: 1000 + GST
+
+5. modules to download: redux, react-redux, redux-saga
+
+6. command to download: yarn add redux react-redux redux-saga --save
+
+7. how to create the reducer? reducer.js
+
+8. create the store and deploy the reducer
